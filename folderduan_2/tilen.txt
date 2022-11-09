@@ -1,3 +1,5 @@
 du lieu cu file n
-
+ok
 du lieu thay doi tren nhanh develop cho file n
+teamA them du lieu vao (test them tren remote) file n
+ok
