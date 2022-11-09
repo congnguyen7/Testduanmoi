@@ -2,3 +2,5 @@ du lieu cu file 2
 thay doi du lieu cu file 2
 thay doi du lieu moi tren nhanh develop cho file2
 thay doi du lieu moi tren nhanh feature1 cho file2
+
+thay doi du lieu file2
