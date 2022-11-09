@@ -3,3 +3,9 @@ thay doi du lieu cu main
 thay doi du lieu moi tren nhanh develop cho main
 thay doi du lieu moi tren nhanh feature1 cho main
 ok teamA them xong
+
+them du lieu moi vao main.txt
+.............................
+.............................
+111111111111111111111111111111
+122222222222222222222222222222
